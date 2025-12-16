@@ -10,7 +10,7 @@ Chen, Y., & Huang, L. (2025). MATLAB Roadmap to Applications: Volume I Fundament
 
 **相关论文：**  
 Zhu, Y., Lin, X., Kim, J., Al-Adwan, A. S., & Li, N. (2025). Exploring Human Interaction in Online Self-Regulated Learning Through Danmaku Comments. International Journal of Human–Computer Interaction, 41(22), 13964–13977. https://doi.org/10.1080/10447318.2025.2480826
-Tay, J., Li, N., Luo, L., Zhou, Z., Meng, W., Zhang, Q., … Lu, Y. (2025). Role of learner agency for interactive group learning through the lens of Blooms Taxonomy. Interactive Learning Environments, 1–14. https://doi.org/10.1080/10494820.2025.2507277
+Tay, J., Li, N., Luo, L., Zhou, Z., Meng, W., Zhang, Q., Purwanto, E., & Lu, Y. (2025). Role of learner agency for interactive group learning through the lens of Blooms Taxonomy. Interactive Learning Environments, 1–14. https://doi.org/10.1080/10494820.2025.2507277
 
 ---
 
