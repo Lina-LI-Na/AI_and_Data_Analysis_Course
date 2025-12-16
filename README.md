@@ -5,6 +5,13 @@
 本课程所涉及的人工智能与数据分析技术具有广泛的适用性，可应用于多种智能系统与数据驱动问题，为学生后续在人工智能、数据科学及相关应用领域的深入学习与研究奠定坚实基础。
 本课程配套内容包括：（1）中英文双语课件；（2）与课件对应的实时讲授脚本；（3）人工智能与数据分析实验课程案例。
 
+**本项目英文专著：**  
+Chen, Y., & Huang, L. (2025). MATLAB Roadmap to Applications: Volume I Fundamental. Springer Nature.https://library.oapen.org/handle/20.500.12657/100821
+
+**相关论文：**  
+Zhu, Y., Lin, X., Kim, J., Al-Adwan, A. S., & Li, N. (2025). Exploring Human Interaction in Online Self-Regulated Learning Through Danmaku Comments. International Journal of Human–Computer Interaction, 41(22), 13964–13977. https://doi.org/10.1080/10447318.2025.2480826
+Tay, J., Li, N., Luo, L., Zhou, Z., Meng, W., Zhang, Q., … Lu, Y. (2025). Role of learner agency for interactive group learning through the lens of Blooms Taxonomy. Interactive Learning Environments, 1–14. https://doi.org/10.1080/10494820.2025.2507277
+
 ---
 
 ## 仓库结构说明
