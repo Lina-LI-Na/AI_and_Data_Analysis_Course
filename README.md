@@ -19,7 +19,7 @@ Tay, J., Li, N., Luo, L., Zhou, Z., Meng, W., Zhang, Q., Purwanto, E., & Lu, Y. 
 
 ```text
 AI-and-Data-Analysis/
-├── slides/                   # 中英文课程课件（PPT）
+├── 中英文课程课件（PPT）
 │   ├── Lab_Cha1_Introduction
 │   │       介绍
 │   ├── Lab_Cha2_Types_Operators_and_Expressions
@@ -60,7 +60,7 @@ AI-and-Data-Analysis/
 │   │       回归分析
 │   └── Lab_Cha20_Practices
 │           实践练习
-├── live_scripts/         # 课件对应的实时讲授脚本与示例代码（参考"课件_实时脚本对应.xlsx"）
+├── 课件对应的实时讲授脚本与示例代码（参考"课件_实时脚本对应.xlsx"）
 │   ├── 1_数据分析介绍
 │   ├── 2_数据处理基础
 │   ├── 3_数据平滑
@@ -82,7 +82,7 @@ AI-and-Data-Analysis/
 │   ├── K_11_ProblemSolvingandApplications
 │   └── L_12_ImageProcessing
 │
-├── lab cases/ 
+├── 课程案例
 │   ├── 数据分析实验课程案例
 │   ├── 人工智能教学实践案例
 │ 
